@@ -275,3 +275,5 @@ TSWLatexianTemp*
 .texpadtmp/GómezSosaLeonardoCV.log
 .texpadtmp/GómezSosaLeonardoCV.out
 .texpadtmp/GómezSosaLeonardoCV.synctex.gz
+.texpadtmp
+.texpadtmp/*
